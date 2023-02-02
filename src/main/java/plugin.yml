@@ -1,0 +1,13 @@
+name: SearchContainer
+version: 20221228
+description: SearchContainer
+author: comorichico
+website: comorichico.com
+api-version: 1.19
+#---
+main: com.comorichico.searchcontainer.SearchContainer
+
+commands:
+    sc:
+        description: チェストなどを検索する。
+        usage: /
